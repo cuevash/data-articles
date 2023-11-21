@@ -48,9 +48,7 @@ Finally click on the 'Save' option in the top left menu and select 'Save and app
    
 ### Format button.   
 There are numerous options available for formatting the button to your liking. While I won't go into details, the process is quite straightforward and user-friendly.   
-![Screenshot 2023-11-21 at 18.06.13.png](files/screenshot-2023-11-21-at-18-06-13.png)    
-![Screenshot 2023-11-21 at 18.06.31.png](files/screenshot-2023-11-21-at-18-06-31.png)    
-[streamline-power-bi-refresh-refresh-dataset-after-a-successful-refresh-of-dataflow](https://radacad.com/streamline-power-bi-refresh-refresh-dataset-after-a-successful-refresh-of-dataflow)    
+![Group 1.png](files/group-1.png)    
 ### Check flow by reviewing Refresh histories   
 After clicking the 'Refrescar' (or any name you may have used) button, I checked the Refresh History for the Dataflow and Dataset in the Power BI Service. There, you should see the refresh type listed as 'On Demand.' If you open these windows quickly enough, you should observe that they are in progress—first the Dataflow and, once it's finished, then the Dataset.   
 ![Screenshot 2023-11-21 at 18.59.18.png](files/screenshot-2023-11-21-at-18-59-18.png)    
